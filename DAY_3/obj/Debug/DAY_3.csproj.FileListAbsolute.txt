@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\obj\Debug\DAY_3.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\obj\Debug\DAY_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\obj\Debug\DAY_3.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\bin\Debug\DAY_3.exe.config
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\bin\Debug\DAY_3.exe
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\bin\Debug\DAY_3.pdb
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\obj\Debug\DAY_3.exe
+C:\Users\Lavanya\source\repos\DAY_3\DAY_3\obj\Debug\DAY_3.pdb
