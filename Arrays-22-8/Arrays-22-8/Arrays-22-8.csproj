@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>prob14</StartupObject>
+    <StartupObject>Arrays.prob11</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
