@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\bin\Debug\Prob2.dll
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\bin\Debug\Prob2.pdb
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\obj\Debug\Prob2.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\obj\Debug\Prob2.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\obj\Debug\Prob2.dll
+C:\Users\Lavanya\source\repos\DataStructures-26-8\Prob2\obj\Debug\Prob2.pdb
