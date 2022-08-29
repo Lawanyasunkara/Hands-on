@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\bin\Debug\DS-29-8.exe.config
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\bin\Debug\DS-29-8.exe
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\bin\Debug\DS-29-8.pdb
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\obj\Debug\DS-29-8.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\obj\Debug\DS-29-8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\obj\Debug\DS-29-8.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\obj\Debug\DS-29-8.exe
+C:\Users\Lavanya\source\repos\DS-29-8\DS-29-8\obj\Debug\DS-29-8.pdb
