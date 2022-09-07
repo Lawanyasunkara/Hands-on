@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\bin\Debug\Prblm.dll
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\bin\Debug\Prblm.pdb
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\obj\Debug\Prblm.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\obj\Debug\Prblm.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\obj\Debug\Prblm.dll
+C:\Users\Lavanya\source\repos\OOP-6-9\Prblm\obj\Debug\Prblm.pdb

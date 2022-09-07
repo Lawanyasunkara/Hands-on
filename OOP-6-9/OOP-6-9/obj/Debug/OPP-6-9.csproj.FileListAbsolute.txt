@@ -1,0 +1,11 @@
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\bin\Debug\OOP-6-9.exe.config
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\bin\Debug\OOP-6-9.exe
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\bin\Debug\OOP-6-9.pdb
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OPP-6-9.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OPP-6-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OPP-6-9.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OOP-6-9.exe
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OOP-6-9.pdb
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\bin\Debug\Prblm.dll
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\bin\Debug\Prblm.pdb
+C:\Users\Lavanya\source\repos\OOP-6-9\OOP-6-9\obj\Debug\OPP-6-9.csproj.CopyComplete
