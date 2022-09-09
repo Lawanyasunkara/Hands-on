@@ -1,0 +1,11 @@
+C:\Users\Lavanya\source\repos\sep-8\sep-8\bin\Debug\sep-8.exe.config
+C:\Users\Lavanya\source\repos\sep-8\sep-8\bin\Debug\sep-8.exe
+C:\Users\Lavanya\source\repos\sep-8\sep-8\bin\Debug\sep-8.pdb
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.exe
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.pdb
+C:\Users\Lavanya\source\repos\sep-8\sep-8\bin\Debug\delegates.dll
+C:\Users\Lavanya\source\repos\sep-8\sep-8\bin\Debug\delegates.pdb
+C:\Users\Lavanya\source\repos\sep-8\sep-8\obj\Debug\sep-8.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\sep-8\delegates\bin\Debug\delegates.pdb
+C:\Users\Lavanya\source\repos\sep-8\delegates\obj\Debug\delegates.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sep-8\delegates\obj\Debug\delegates.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sep-8\delegates\obj\Debug\delegates.dll
+C:\Users\Lavanya\source\repos\sep-8\delegates\obj\Debug\delegates.pdb
+C:\Users\Lavanya\source\repos\sep-8\delegates\obj\Debug\delegates.csproj.CopyComplete
