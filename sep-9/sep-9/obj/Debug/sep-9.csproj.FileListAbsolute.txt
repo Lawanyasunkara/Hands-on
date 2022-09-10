@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\sep-9\sep-9\bin\Debug\sep-9.exe.config
+C:\Users\Lavanya\source\repos\sep-9\sep-9\bin\Debug\sep-9.exe
+C:\Users\Lavanya\source\repos\sep-9\sep-9\bin\Debug\sep-9.pdb
+C:\Users\Lavanya\source\repos\sep-9\sep-9\obj\Debug\sep-9.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sep-9\sep-9\obj\Debug\sep-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\sep-9\sep-9\obj\Debug\sep-9.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sep-9\sep-9\obj\Debug\sep-9.exe
+C:\Users\Lavanya\source\repos\sep-9\sep-9\obj\Debug\sep-9.pdb
