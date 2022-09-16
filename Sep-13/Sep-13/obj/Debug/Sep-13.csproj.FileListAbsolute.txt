@@ -1,0 +1,11 @@
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\bin\Debug\Sep-13.exe.config
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\bin\Debug\Sep-13.exe
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\bin\Debug\Sep-13.pdb
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\bin\Debug\GAC.dll
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\bin\Debug\GAC.pdb
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.csproj.CopyComplete
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.exe
+C:\Users\Lavanya\source\repos\Sep-13\Sep-13\obj\Debug\Sep-13.pdb

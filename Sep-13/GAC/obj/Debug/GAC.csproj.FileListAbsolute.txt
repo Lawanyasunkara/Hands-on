@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\Sep-13\GAC\bin\Debug\GAC.pdb
+C:\Users\Lavanya\source\repos\Sep-13\GAC\obj\Debug\GAC.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\Sep-13\GAC\obj\Debug\GAC.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\Sep-13\GAC\obj\Debug\GAC.dll
+C:\Users\Lavanya\source\repos\Sep-13\GAC\obj\Debug\GAC.pdb
+C:\Users\Lavanya\source\repos\Sep-13\GAC\obj\Debug\GAC.csproj.CopyComplete

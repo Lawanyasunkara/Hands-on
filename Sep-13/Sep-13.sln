@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sep-13", "Sep-13\Sep-13.csproj", "{6F747EE1-11C8-47CE-84FC-B6792B350BBC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744} = {FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAC", "GAC\GAC.csproj", "{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F747EE1-11C8-47CE-84FC-B6792B350BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F747EE1-11C8-47CE-84FC-B6792B350BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F747EE1-11C8-47CE-84FC-B6792B350BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F747EE1-11C8-47CE-84FC-B6792B350BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3B3ABF-5888-4FF4-AA2B-6D3924DB3744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557F35C6-F438-4435-94D4-CE76A5F6A37D}
+	EndGlobalSection
+EndGlobal
