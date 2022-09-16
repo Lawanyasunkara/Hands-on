@@ -1,0 +1,13 @@
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\sep-14.exe.config
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\sep-14.exe
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\sep-14.pdb
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.exe
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.pdb
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\serialization.dll
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lavanya\source\repos\sep-14\sep-14\bin\Debug\serialization.pdb
+C:\Users\Lavanya\source\repos\sep-14\sep-14\obj\Debug\sep-14.csproj.CopyComplete

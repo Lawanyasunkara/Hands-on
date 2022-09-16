@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\sep-14\serialization\bin\Debug\serialization.pdb
+C:\Users\Lavanya\source\repos\sep-14\serialization\obj\Debug\serialization.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sep-14\serialization\obj\Debug\serialization.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sep-14\serialization\obj\Debug\serialization.dll
+C:\Users\Lavanya\source\repos\sep-14\serialization\obj\Debug\serialization.pdb
+C:\Users\Lavanya\source\repos\sep-14\serialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lavanya\source\repos\sep-14\serialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lavanya\source\repos\sep-14\serialization\obj\Debug\serialization.csproj.CopyComplete
