@@ -1,0 +1,15 @@
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\sql-24.exe.config
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\sql-24.exe
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\sql-24.pdb
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.exe
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.pdb
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\bal-file.dll
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\helperfile.dll
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\DALfile.dll
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\bal-file.pdb
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\helperfile.pdb
+C:\Users\Lavanya\source\repos\sql-24\sql-24\bin\Debug\DALfile.pdb
+C:\Users\Lavanya\source\repos\sql-24\sql-24\obj\Debug\sql-24.csproj.CopyComplete

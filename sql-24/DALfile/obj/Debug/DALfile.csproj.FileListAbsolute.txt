@@ -1,0 +1,9 @@
+C:\Users\Lavanya\source\repos\sql-24\DALfile\bin\Debug\DALfile.dll
+C:\Users\Lavanya\source\repos\sql-24\DALfile\bin\Debug\DALfile.pdb
+C:\Users\Lavanya\source\repos\sql-24\DALfile\obj\Debug\DALfile.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sql-24\DALfile\obj\Debug\DALfile.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sql-24\DALfile\obj\Debug\DALfile.dll
+C:\Users\Lavanya\source\repos\sql-24\DALfile\obj\Debug\DALfile.pdb
+C:\Users\Lavanya\source\repos\sql-24\DALfile\bin\Debug\bal-file.dll
+C:\Users\Lavanya\source\repos\sql-24\DALfile\bin\Debug\bal-file.pdb
+C:\Users\Lavanya\source\repos\sql-24\DALfile\obj\Debug\DALfile.csproj.CopyComplete

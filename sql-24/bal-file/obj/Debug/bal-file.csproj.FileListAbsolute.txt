@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\sql-24\bal-file\bin\Debug\bal-file.dll
+C:\Users\Lavanya\source\repos\sql-24\bal-file\bin\Debug\bal-file.pdb
+C:\Users\Lavanya\source\repos\sql-24\bal-file\obj\Debug\bal-file.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\sql-24\bal-file\obj\Debug\bal-file.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\sql-24\bal-file\obj\Debug\bal-file.dll
+C:\Users\Lavanya\source\repos\sql-24\bal-file\obj\Debug\bal-file.pdb
