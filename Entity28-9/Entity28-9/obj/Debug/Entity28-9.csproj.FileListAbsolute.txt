@@ -1,0 +1,8 @@
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\bin\Debug\Entity28-9.exe.config
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\bin\Debug\Entity28-9.exe
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\bin\Debug\Entity28-9.pdb
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\obj\Debug\Entity28-9.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\obj\Debug\Entity28-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\obj\Debug\Entity28-9.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\obj\Debug\Entity28-9.exe
+C:\Users\Lavanya\source\repos\Entity28-9\Entity28-9\obj\Debug\Entity28-9.pdb
